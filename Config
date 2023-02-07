@@ -1,0 +1,5 @@
+#test account
+Host github.com
+	HostName github.com
+	User git
+	identityfile ~/.ssh/mysshkey
